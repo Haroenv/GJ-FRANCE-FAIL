@@ -9,7 +9,7 @@ As per their Google Play description, this app is presenting "the figures"
 
 In the app, they called this section "The TRUE figures" aka media are lying we are more than that.
 
-This Cordova app made by an "agency" called [Whelp](whelp.fr) has many issues. Their backend is probably one of the worst backend I saw in my life. There is no authentication mechanism, they used POST requests for everything,...
+This Cordova app made by an "agency" called [Whelp](http://whelp.fr) has many issues. Their backend is probably one of the worst backend I saw in my life. There is no authentication mechanism, they used POST requests for everything,...
 
 Thanks to this lack of authentication mechanism, you can increment indefinitively the live support counter with the following command:
 ```console
